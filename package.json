@@ -1,0 +1,17 @@
+{
+    "name": "deferred"
+  , "description": "jQuery.Deferred clone"
+  , "version": "0.0.1"
+  , "keywords": ["deferred", "promise"]
+  , "homepage": "http://shishidohinata.github.com/deferred/"
+  , "author": "Shishido Hinata"
+  , "scripts": { "test": "make test" }
+  , "repository": {
+      "type": "git"
+    , "url": "https://github.com/shishidohinata/deferred.git"
+  }
+  , "devDependencies": {
+      "jshint": "0.9.1"
+    , "connect": "2.1.3"
+  }
+}
